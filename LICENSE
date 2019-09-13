@@ -1,0 +1,63 @@
+
+                                   CHUCU
+            Copyright (C) 2019 Layakk Seguridad Informatica S.L.
+                           http://www.layakk.com
+
+
+PLEASE CAREFULLY READ THIS LICENSE AGREEMENT, ESPECIALLY IF YOU PLAN
+TO MODIFY THE UPX SOURCE CODE OR USE A MODIFIED UPX VERSION.
+
+
+ABSTRACT
+========
+
+   This software has the objective to implement a proof-of-concept (PoC) and
+   study about Anti-virus evasion techniques applicable to packers.
+   With this purpose, it includes a modification of the UPX software and other
+   scripts and utilities.
+
+   This software is not intended to and must not be used for any malicious
+   purposes.
+
+
+COPYRIGHT
+=========
+
+   The modifications of UPX and the rest of scripts and utilities included in
+   this software are copyrighted. All rights remain with Layakk Seguridad
+   Informatica S.L.
+   Copyright (C) 2019 Layakk Seguridad Informatica S.L.
+ 
+
+   UPX and UCL are copyrighted software. All rights remain with the authors.
+
+   UPX is Copyright (C) 1996-2000 Markus Franz Xaver Johannes Oberhumer
+   UPX is Copyright (C) 1996-2000 Laszlo Molnar
+
+   UCL is Copyright (C) 1996-2000 Markus Franz Xaver Johannes Oberhumer
+
+
+GNU GENERAL PUBLIC LICENSE
+==========================
+
+   This software (as defined in the abstract), UPX and the UCL library are free
+   software; you can redistribute them and/or modify them under the terms of 
+   the GNU General Public License as published by the Free Software Foundation;
+   either version 2 of the License, or (at your option) any later version.
+
+   This software (as defined in the abstract), UPX and UCL are distributed in 
+   the hope that they will be useful, but WITHOUT ANY WARRANTY; without even
+   the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+   See the GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program; see the file COPYING.
+
+
+ANNOTATIONS
+===========
+  - As stated in the UPX LICENSE file, since these modifications affect
+    the UPX Stub, this program can be used to compress only programs
+    that are compatible with the GNU General Public License.
+
+  - Please review the UPX license for further details.

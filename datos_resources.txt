@@ -1,0 +1,14 @@
+La funcionalidad debe tener en cuenta donde esta el Manifest.
+Debe tener en cuenta ese offset.
+
+pwsafe.exe
+  - Total size 40868
+  - Manifest offset 30629
+  - Cota minima
+  - Cota maxima 10231
+
+VNC
+  - Total size 81188
+  - Manifest offst 9360
+  - Cota minima
+  - Cota maxima 71819
